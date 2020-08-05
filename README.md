@@ -1,3 +1,3 @@
 # conky
 Configuracion personal del monitor de recursos conky para linux
-![Screenshot](wallpapersden.com_black-dots_2560x1440.jpg) 
+![Screenshot](Captura%20de%20pantalla%20de%202020-08-05%2015-25-56.png) 
